@@ -8,7 +8,7 @@ public class Exercicio_6 {
     public static void main (String[] args) {
         Scanner leia = new Scanner(System.in);
 
-        int min = 1, max = 100, escolha, tentativas = 5;
+        int min = 1, max = 100, escolha, tentativas = 3;
 
         Random numerosAleatorios = new Random();
         // int valor = numerosAleatorios.nextInt(100) + 1;
