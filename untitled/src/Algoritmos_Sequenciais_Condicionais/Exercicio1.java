@@ -2,6 +2,9 @@ package Algoritmos_Sequenciais_Condicionais;
 
 import java.util.Scanner;
 
+// dados de entrada dois pontos quaisquer no plano,
+// P(x1,y1) e P(x2,y2), escreva a distância entre eles.
+
 public class Exercicio1 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);

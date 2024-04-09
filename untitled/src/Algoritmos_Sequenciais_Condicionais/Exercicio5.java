@@ -2,6 +2,9 @@ package Algoritmos_Sequenciais_Condicionais;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+// Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa
+// em segundos e mostre-o expresso em horas, minutos e segundos.
+
 public class Exercicio5 {
     public static void main(String[] args){
         Scanner leia = new Scanner(System.in);

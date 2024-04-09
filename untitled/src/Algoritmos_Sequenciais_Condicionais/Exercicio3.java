@@ -3,6 +3,11 @@ package Algoritmos_Sequenciais_Condicionais;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+//3. Faça um algoritmo que leia a idade de uma pessoa expressa em
+// anos, meses e dias e mostre-a expressa apenas em dias.
+//4. Faça um algoritmo que leia a idade de uma pessoa expressa em dias
+// e mostre-a expressa em anos, meses e dias.
+
 public class Exercicio3 {
     public static void main(String[] args){
         Scanner leia = new Scanner(System.in);
